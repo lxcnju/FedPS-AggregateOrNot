@@ -13,3 +13,4 @@ For FL with a deep neural network (DNN), privatizing some layers is a simple yet
 
 ## Citation
   * Xin-Chun Li, Le Gan, De-Chuan Zhan, Yunfeng Shao, Bingshuai Li, Shaoming Song. Aggregate or Not? Exploring Where to Privatize in DNN Based Federated Learning Under Different Non-IID Scenes. CoRR 2021.
+  * \[[BibTex](https://dblp.org/pid/246/2947.html)\]
