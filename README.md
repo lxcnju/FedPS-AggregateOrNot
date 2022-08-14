@@ -19,6 +19,8 @@ We provide several datasets including CIFAR-10, CIFAR-100, Shakespear, and FeMni
   * Shakespeare: \[[Shakespeare.json](http://www.lamda.nju.edu.cn/lixc/data/Shakespeare.zip)\]
   * FeMnist: \[[femnist_pkls/part1](http://www.lamda.nju.edu.cn/lixc/data/femnist_pkls/part1.zip)\] \[[femnist_pkls/part2](http://www.lamda.nju.edu.cn/lixc/data/femnist_pkls/part2.zip)\] \[[femnist_pkls/part3](http://www.lamda.nju.edu.cn/lixc/data/femnist_pkls/part3.zip)\] \[[femnist_pkls/part4](http://www.lamda.nju.edu.cn/lixc/data/femnist_pkls/part4.zip)\] \[[femnist_pkls/part5](http://www.lamda.nju.edu.cn/lixc/data/femnist_pkls/part5.zip)\] 
 
+**If you find that clicking the hyperlink buttons above can not download the datasets, you can copy the links to your browser and download the datasets.**
+
 ## Running Tips
   * `basic_nets.py`: several network architectures (Figure.4);
   * `ps_nets.py`: several private-shared ways (Figure.1);
